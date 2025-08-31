@@ -1,6 +1,3 @@
-# english-tech-fluency# Cria a pasta do curso e escreve o README.md em Markdown
-
-
 # 📘 English Tech Fluency – DIO Course
 
 Este diretório reúne meus estudos do **curso de Inglês (DIO)**.  
