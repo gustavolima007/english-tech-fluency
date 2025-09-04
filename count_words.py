@@ -35,8 +35,7 @@ def get_cefr_level(word_count):
         return "C2 (Proficient)"
 
 def main():
-    base_dir = os.path.expanduser("~/Documents/Github/Gustavo Lima/english-tech-fluency/vocabulary/words.txt")
-    file_path = os.path.normpath(base_dir)
+    file_path = "vocabulary/words.md"
     print(f"Attempting to access the file: {file_path}")
     word_count = count_words(file_path)
     
