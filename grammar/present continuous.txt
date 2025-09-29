@@ -1,0 +1,9 @@
+| Subject | Present Tense of "To Be" | Example Sentence                          |
+|---------|---------------------------|--------------------------------------------|
+| I       | am                        | I am shopping at the store.                |
+| You     | are                       | You are attending the meeting.             |
+| He      | is                        | He is feeling tired today.                 |
+| She     | is                        | She is smiling at the results.             |
+| It      | is                        | It is raining right now.                   |
+| We      | are                       | We are heading to the party.               |
+| They    | are                       | They are planning the trip.                |
