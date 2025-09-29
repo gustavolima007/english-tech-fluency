@@ -1,9 +1,0 @@
-| Subject       | Past Tense of "To Be" | Example Sentence                          |
-|---------------|------------------------|--------------------------------------------|
-| I             | was                   | I was at the store.                        |
-| You           | were                  | You were in the meeting.                   |
-| He            | was                   | He was tired yesterday.                    |
-| She           | was                   | She was happy with the results.            |
-| It            | was                   | It was raining all day.                    |
-| We            | were                  | We were late to the party.                 |
-| They          | were                  | They were excited about the trip.          |
